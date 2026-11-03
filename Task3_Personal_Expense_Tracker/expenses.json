@@ -1,0 +1,16 @@
+[
+    {
+        "id": "9266fa65",
+        "title": "Lunch",
+        "amount": 150.0,
+        "category": "Food",
+        "date": "2026-11-03"
+    },
+    {
+        "id": "0f3b8c88",
+        "title": "Dinner",
+        "amount": 590.0,
+        "category": "Seafood",
+        "date": "2026-11-03"
+    }
+]
